@@ -4,6 +4,7 @@ function mostrar()
 	var nombre= prompt ("ingrese su nombre" )
 	var edad= prompt ("ingrese su edad" )
 	
+	
 	//Declrar una variable edad.
 	//Asignarle una edad
 	//El texto deberá decir
