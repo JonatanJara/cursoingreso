@@ -4,9 +4,10 @@
 */
 function mostrar()
 {
-	var nombre = prompt("ingrese una palabra en la caja de textos") 
+	var nombre = prompt("ingrese una palabra en la caja de textos"); 
     
-	document.getElementById("elNombre").value = nombre
+	document.getElementById("elNombre").value = nombre;
+	
 
 }
 

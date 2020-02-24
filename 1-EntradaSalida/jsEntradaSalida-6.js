@@ -13,7 +13,7 @@ function sumar()
     numeroDos = document.getElementById("numeroDos").value;
     numeroDos = parseInt (numeroDos);
     
-    alert ("El resultado es: "  +  (numero+numeroDos));
+    alert ("La suma es: "  +  (numero+numeroDos));
 
 
 }
