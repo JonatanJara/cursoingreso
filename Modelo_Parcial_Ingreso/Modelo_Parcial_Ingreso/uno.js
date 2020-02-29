@@ -30,4 +30,6 @@ else {
   alert("Resultado: lados concateados: "+ladoA+ladoB+ " el perimetro es: " + resultado);
 }
 
+
+
 }
